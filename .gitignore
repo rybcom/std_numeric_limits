@@ -1,0 +1,12 @@
+﻿/temp
+/bin
+
+*.vs
+*.vscode
+*.vcxproj.user
+*.user
+*.suo
+*.opensdf
+*.VC.opendb
+*.sdf
+*.svn
